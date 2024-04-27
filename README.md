@@ -34,7 +34,7 @@ Developed by: Samuel M
 Registeration Number : 212222040142
 */
 ```
-ACTIVITY_MAIN.XML
+## ACTIVITY_MAIN.XML
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -56,7 +56,7 @@ ACTIVITY_MAIN.XML
         app:layout_constraintVertical_bias="0.0" />
 </androidx.constraintlayout.widget.ConstraintLayout
 ```
-MAIN_ACTIVITY.XML
+## MAIN_ACTIVITY.XML
 ```XML
 package com.example.primitivegraphics;
 
